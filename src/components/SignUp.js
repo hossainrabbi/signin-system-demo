@@ -30,7 +30,7 @@ const SignUp = () => {
     };
 
     return (
-        <>
+        <div>
             <Card>
                 <Card.Body>
                     <h2 className="text-center mb-4">Sign Up</h2>
@@ -77,7 +77,7 @@ const SignUp = () => {
             <div className="text-center w-100 mt-2">
                 Already have an account? Log In
             </div>
-        </>
+        </div>
     );
 };
 
